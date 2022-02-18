@@ -15,6 +15,7 @@
               <img src="../assets/img/twitter.svg" alt="twitter" />
             </li>
             <li class="nav-item mx-3">
+              <a href="https://www.instagram.com/emshop_officials/"></a>
               <img src="../assets/img/facebook.svg" alt="twitter" />
             </li>
             <li class="nav-item5">
@@ -53,12 +54,7 @@
         </router-link>
         <form class="d-flex d-sm-block d-lg-none col" style="width: 74%">
           <input
-            style="
-              padding-left: 24px;
-              font-size: 12px;
-              text-color: #cccccc;
-              width: 100%;
-            "
+            style="padding-left: 24px; font-size: 14px; width: 100%"
             class="form-control search-product"
             type="search"
             placeholder="Cari Produk Kesehatan"

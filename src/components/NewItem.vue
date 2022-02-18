@@ -444,7 +444,7 @@
     </div>
   </nav>
   <div
-    id="carouselExampleControls2"
+    id="carouselExampleControls20"
     class="carousel slide px-3 d-block d-sm-none"
     style="margin-bottom: 26px"
   >
@@ -514,50 +514,52 @@
         </div>
       </div>
       <div class="carousel-item">
-        <div class="col">
-          <div class="card shadow">
-            <img
-              class="card-img-top"
-              src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.58.13.jpeg"
-              alt="Card image cap"
-              width="240"
-            />
-            <div class="card-body">
-              <h5 class="card-title">
-                Al Attar Health Necklace (Tasbih Series) V1
-              </h5>
-              <p class="card-text">Rp899.000</p>
-              <div>
-                <p
-                  class="card-text-promo text-decoration-line-through col-4 float-start"
-                >
-                  Rp2.079.000
-                </p>
-                <p class="card-text-disc col-2 float-start">-78%</p>
+        <div class="row">
+          <div class="col">
+            <div class="card shadow">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.58.13.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title">
+                  Al Attar Health Necklace (Tasbih Series) V1
+                </h5>
+                <p class="card-text">Rp899.000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-4 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p class="card-text-disc col-2 float-start">-78%</p>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <div class="col">
-          <div class="card">
-            <img
-              class="card-img-top"
-              src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.58.59_1_.jpeg"
-              alt="Card image cap"
-              width="240"
-            />
-            <div class="card-body">
-              <h5 class="card-title">
-                Al Attar Health Necklace (Tasbih Series) V1
-              </h5>
-              <p class="card-text">Rp899.000</p>
-              <div>
-                <p
-                  class="card-text-promo text-decoration-line-through col-4 float-start"
-                >
-                  Rp2.079.000
-                </p>
-                <p class="card-text-disc col-2 float-start">-78%</p>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.58.59_1_.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title">
+                  Al Attar Health Necklace (Tasbih Series) V1
+                </h5>
+                <p class="card-text">Rp899.000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-4 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p class="card-text-disc col-2 float-start">-78%</p>
+                </div>
               </div>
             </div>
           </div>
@@ -665,6 +667,10 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
           <div class="col">
             <div class="card">
               <img
@@ -713,6 +719,10 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
           <div class="col">
             <div class="card">
               <img
@@ -761,6 +771,10 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
           <div class="col">
             <div class="card shadow">
               <img
@@ -809,37 +823,13 @@
               </div>
             </div>
           </div>
-          <div class="col">
-            <div class="card">
-              <img
-                class="card-img-top"
-                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-23_at_10.57.04.jpeg"
-                alt="Card image cap"
-                width="240"
-              />
-              <div class="card-body">
-                <h5 class="card-title">
-                  Al Attar Health Necklace (Tasbih Series) V1
-                </h5>
-                <p class="card-text">Rp899.000</p>
-                <div>
-                  <p
-                    class="card-text-promo text-decoration-line-through col-4 float-start"
-                  >
-                    Rp2.079.000
-                  </p>
-                  <p class="card-text-disc col-2 float-start">-78%</p>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
-    <!-- <button
+    <button
       class="carousel-control-prev btn-prev shadow"
       type="button"
-      data-bs-target="#carouselExampleControls2"
+      data-bs-target="#carouselExampleControls20"
       data-bs-slide="prev"
     >
       <span class="" aria-hidden="true">
@@ -850,14 +840,14 @@
     <button
       class="carousel-control-next btn-next shadow"
       type="button"
-      data-bs-target="#carouselExampleControls2"
+      data-bs-target="#carouselExampleControls20"
       data-bs-slide="next"
     >
       <span class="" aria-hidden="true">
         <i class="fa-solid fa-angle-right fa-xl" style="color: black"></i>
       </span>
       <span class="visually-hidden">Next</span>
-    </button> -->
+    </button>
   </div>
 </template>
 

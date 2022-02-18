@@ -1,16 +1,15 @@
 <template>
+  <!-- Desktop View -->
   <div
     class="d-none d-sm-none d-lg-block"
     style="margin-top: 64px; margin-bottom: 20px"
   >
     <div class="row">
       <div class="col">
-        <router-link to="/category" style="text-decoration: none">
-          <div class="icon-category">
-            <img width="56" src="../assets/img/healthcare.svg" alt="" />
-          </div>
-          <p class="text-category fw-bold" style="color: black">Kesehatan</p>
-        </router-link>
+        <div class="icon-category">
+          <img width="56" src="../assets/img/healthcare.svg" alt="" />
+        </div>
+        <p class="text-category fw-bold" style="color: black">Kesehatan</p>
       </div>
       <div class="col">
         <div class="icon-category">
@@ -31,9 +30,11 @@
         <p class="text-category fw-bold">Religion</p>
       </div>
       <div class="col">
-        <div class="icon-category">
-          <img width="56" src="../assets/img/fashion.svg" alt="" />
-        </div>
+        <router-link to="/category" style="text-decoration: none">
+          <div class="icon-category">
+            <img width="56" src="../assets/img/fashion.svg" alt="" />
+          </div>
+        </router-link>
         <p class="text-category fw-bold">Fashion</p>
       </div>
       <div class="col">
@@ -56,6 +57,7 @@
       </div>
     </div>
   </div>
+  <!-- Mobile View -->
   <div
     id="carouselExampleControls3"
     class="carousel slide d-block-sm d-lg-none py-3 px-2"
@@ -93,9 +95,11 @@
       </div>
       <div class="row">
         <div class="col">
-          <div class="icon-category">
-            <img width="44" src="../assets/img/fashion.svg" alt="" />
-          </div>
+          <router-link to="/category" style="text-decoration: none">
+            <div class="icon-category">
+              <img width="44" src="../assets/img/fashion.svg" alt="" />
+            </div>
+          </router-link>
           <p class="text-category fw-bold" style="font-size: 12px">Fashion</p>
         </div>
         <div class="col">
