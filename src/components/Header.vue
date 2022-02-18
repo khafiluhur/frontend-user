@@ -44,14 +44,6 @@
       class="navbar navbar-expand-lg navbar-light bg-main shadow-sm pt-3 pb-3 media-mobile d-none d-sm-block"
     >
       <div class="container-fluid">
-        <router-link class="navbar-brand mr-1 col px-5" to="/">
-          <img
-            src="../assets/img/logo.png"
-            alt=""
-            width="152"
-            class="d-inline-block align-text-top"
-          />
-        </router-link>
         <form class="d-flex d-sm-block d-lg-none col" style="width: 74%">
           <input
             style="padding-left: 24px; font-size: 14px; width: 100%"
@@ -76,6 +68,16 @@
         </div>
         <div class="collapse navbar-collapse col" id="navbarSupportedContent">
           <ul class="navbar-nav mb-2 mb-lg-0" style="margin-right: 40px">
+            <li>
+              <router-link class="navbar-brand mr-1 col px-5" to="/">
+                <img
+                  src="../assets/img/logo.png"
+                  alt=""
+                  width="152"
+                  class="d-inline-block align-text-top"
+                />
+              </router-link>
+            </li>
             <li class="nav-item dropdown margin-catrgory">
               <a
                 class="nav-link text-category text-black"
