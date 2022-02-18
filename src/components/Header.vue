@@ -43,8 +43,8 @@
     <nav
       class="navbar navbar-expand-lg navbar-light bg-main shadow-sm pt-3 pb-3 media-mobile d-none d-sm-block"
     >
-      <div class="container-fluid px-5 row">
-        <router-link class="navbar-brand mr-1 col" to="/">
+      <div class="container-fluid">
+        <router-link class="navbar-brand mr-1 col px-5" to="/">
           <img
             src="../assets/img/logo.png"
             alt=""
