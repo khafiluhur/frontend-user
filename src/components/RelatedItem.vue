@@ -17,7 +17,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -41,7 +41,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -65,7 +65,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -89,7 +89,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -113,7 +113,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -139,7 +139,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -163,7 +163,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -187,7 +187,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -211,7 +211,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -235,7 +235,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -261,7 +261,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -285,7 +285,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -309,7 +309,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -333,7 +333,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -357,7 +357,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -383,7 +383,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -407,7 +407,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -431,7 +431,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -455,7 +455,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -479,7 +479,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -505,7 +505,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -529,7 +529,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -553,7 +553,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -577,7 +577,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -601,7 +601,7 @@
             <p class="card-text">Rp899.000</p>
             <div>
               <p
-                class="card-text-promo text-decoration-line-through col-4 float-start"
+                class="card-text-promo text-decoration-line-through col-5 float-start"
               >
                 Rp2.079.000
               </p>
@@ -1373,12 +1373,12 @@ export default {
 
 <style scoped>
 .card-title {
-  font-size: 16px;
+  font-size: 14px;
   text-align: start;
   font-weight: bold;
 }
 .card-text {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   text-align: start;
   margin-bottom: 8px;

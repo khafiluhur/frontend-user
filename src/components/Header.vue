@@ -69,7 +69,7 @@
         <div class="collapse navbar-collapse col" id="navbarSupportedContent">
           <ul class="navbar-nav mb-2 mb-lg-0" style="margin-right: 40px">
             <li>
-              <router-link class="navbar-brand mr-1 col px-5" to="/">
+              <router-link class="navbar-brand mr-1 col ps-5" to="/">
                 <img
                   src="../assets/img/logo.png"
                   alt=""
@@ -160,7 +160,7 @@
           </ul>
           <div class="vl" style="margin-right: 40px; height: 30px"></div>
           <button
-            class="btn btn-outline-success margin-btn btn-emshop px-5 py-2"
+            class="btn btn-outline-success margin-btn btn-emshop py-2"
             style="
               background-color: white;
               color: #f37727;
@@ -171,7 +171,7 @@
             Masuk
           </button>
           <button
-            class="btn btn-outline-success btn-emshop px-5 py-2"
+            class="btn btn-outline-success btn-emshop py-2"
             style="
               background-color: #f37727;
               color: white;
