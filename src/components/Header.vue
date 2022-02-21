@@ -160,7 +160,7 @@
           </ul>
           <div class="vl" style="margin-right: 40px; height: 30px"></div>
           <button
-            class="btn btn-outline-success margin-btn btn-emshop py-2"
+            class="btn btn-outline-success margin-btn btn-emshop py-2 px-4"
             style="
               background-color: white;
               color: #f37727;
@@ -171,7 +171,7 @@
             Masuk
           </button>
           <button
-            class="btn btn-outline-success btn-emshop py-2"
+            class="btn btn-outline-success btn-emshop py-2 px-4"
             style="
               background-color: #f37727;
               color: white;
@@ -383,7 +383,7 @@ export default {
   border-top-left-radius: unset;
 }
 .margin-main {
-  margin-right: 42px;
+  margin-right: 24px;
 }
 .margin-item {
   margin-right: 32px;
