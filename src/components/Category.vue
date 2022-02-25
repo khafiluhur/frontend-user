@@ -1,7 +1,7 @@
 <template>
   <!-- Desktop View -->
   <div
-    class="d-none d-sm-none d-lg-block"
+    class="d-none d-sm-none d-lg-block px-5"
     style="margin-top: 64px; margin-bottom: 20px"
   >
     <div class="row">
@@ -21,7 +21,7 @@
         <div class="icon-category">
           <img width="56" src="../assets/img/kitchenware.svg" alt="" />
         </div>
-        <p class="text-category fw-bold px-5">Peralatan Dapur</p>
+        <p class="text-category fw-bold">Peralatan Dapur</p>
       </div>
       <div class="col">
         <div class="icon-category">
@@ -41,7 +41,7 @@
         <div class="icon-category">
           <img width="56" src="../assets/img/electronic.svg" alt="" />
         </div>
-        <p class="text-category fw-bold px-5">Elektronik & Gadget</p>
+        <p class="text-category fw-bold">Elektronik & Gadget</p>
       </div>
       <div class="col">
         <div class="icon-category">
@@ -53,7 +53,7 @@
         <div class="icon-category">
           <img width="56" src="../assets/img/home.svg" alt="" />
         </div>
-        <p class="text-category fw-bold px-5">Kebutuhan Rumah</p>
+        <p class="text-category fw-bold">Kebutuhan Rumah</p>
       </div>
     </div>
   </div>

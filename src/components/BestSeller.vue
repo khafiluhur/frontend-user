@@ -411,7 +411,6 @@
       class="carousel-control-prev btn-prev shadow"
       type="button"
       data-bs-target="#carouselExampleControls1"
-      data-bs-slide="prev"
     >
       <span class="" aria-hidden="true">
         <i class="fa-solid fa-angle-left fa-xl" style="color: black"></i>
@@ -422,7 +421,6 @@
       class="carousel-control-next btn-next shadow"
       type="button"
       data-bs-target="#carouselExampleControls1"
-      data-bs-slide="next"
     >
       <span class="" aria-hidden="true">
         <i class="fa-solid fa-angle-right fa-xl" style="color: black"></i>
@@ -894,6 +892,524 @@
       class="carousel-control-next"
       type="button"
       data-bs-target="#carouselExampleControls10"
+      data-bs-slide="next"
+    >
+      <span class="" aria-hidden="true">
+        <i class="fa-solid fa-angle-right fa-xl" style="color: black"></i>
+      </span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+  <!-- Tablet View -->
+  <nav
+    class="navbar navbar-expand-lg navbar-light px-4 bg-social d-none d-md-block d-lg-none"
+  >
+    <div class="container-fluid">
+      <a class="navbar-brand fw-bold" style="font-size: 20px" href="#">
+        Terlaris
+      </a>
+      <a
+        style="font-size: 14px; color: #f37727"
+        class="nav-link fw-bold"
+        aria-current="page"
+        href="#"
+        >Lihat Semua</a
+      >
+    </div>
+  </nav>
+  <div
+    id="carouselExampleControls100"
+    class="carousel slide px-4 d-none d-md-block d-lg-none"
+    style="margin-bottom: 26px"
+  >
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="row">
+          <div class="col">
+            <router-link
+              to="/about"
+              style="text-decoration: none; color: black"
+            >
+              <div class="card shadow-sm">
+                <img
+                  class="card-img-top"
+                  src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/5/_/5._low_carbo_rice_cooker_-_with_function_1.jpg"
+                  alt="Card image cap"
+                  width="240"
+                />
+                <div class="card-body">
+                  <h5 class="card-title mobile-title-text">
+                    LOCK N LOCK LOW CARBO RICE COO...
+                  </h5>
+                  <p class="card-text mobile-price-text" style="">Rp999,000</p>
+                  <div>
+                    <p
+                      style="font-size: 12px"
+                      class="card-text-promo text-decoration-line-through col-7 float-start"
+                    >
+                      Rp2.379.000
+                    </p>
+                    <p
+                      class="card-text-disc col-3 float-start"
+                      style="font-size: 12px"
+                    >
+                      -59%
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </router-link>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/1/_/1_1_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  INTEX REST RAISED AIRBED (DARK BL...
+                </h5>
+                <p class="card-text mobile-price-text">Rp699,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp2,099,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -67%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_bonus_9_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  ROLENS ALL GOLD (SEASON 2) V1
+                </h5>
+                <p class="card-text mobile-price-text">Rp1,899.000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp5,749,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -73%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-10_at_12.15.30_pm_1.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  LOCK N LOCK AIR FRYER ROSE GOLD...
+                </h5>
+                <p class="card-text mobile-price-text">Rp799,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp1,799,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -56%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/a/l/al-attar_1-min.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  AL ATTAR HEALTH NECKLACE (TASBIH...
+                </h5>
+                <p class="card-text mobile-price-text">Rp999,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp2,079,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -52%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/k/l/klinmaster_without_bonus_main_product_.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  KLINMASTER SUPER CYCLONE VACUU...
+                </h5>
+                <p class="card-text mobile-price-text">Rp799,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp2,199,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -64%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_11_1.png"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  JEIDO POWER LASER V2 (GIFT GWISAMU...
+                </h5>
+                <p class="card-text mobile-price-text">Rp3,899,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp12,399.000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -69%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_18.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  AL ATTAR JADE MATRAS NEW
+                </h5>
+                <p class="card-text mobile-price-text">Rp1,999,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp5,399,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -63%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/l/o/lock_n_lock_mixhandblender_bonus_botol.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  LOCK N LOCK MIX HAND BLENDER V2
+                </h5>
+                <p class="card-text mobile-price-text">Rp399,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp799,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -51%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/p/o/poster-01.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  LOCK N LOCK STAINLESS STEEL...
+                </h5>
+                <p class="card-text mobile-price-text">Rp499,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp999.000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -51%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-24_at_14.25.38.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  ZEUS UNDERWEAR V2 (2+2 package)
+                </h5>
+                <p class="card-text mobile-price-text">Rp999,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp1,999,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -51%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/e/l/electrolux_tanpa_bonus_tier.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  ELECTROLUX INDUCTION COOKER
+                </h5>
+                <p class="card-text mobile-price-text">Rp1,499,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp2,999,000
+                  </p>
+                  <p
+                    class="card-text-disc col-3 float-start mobile-discon-text"
+                  >
+                    -51%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_produk_bonus_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  HOME N HOME AIR FRYER V2
+                </h5>
+                <p class="card-text mobile-price-text">Rp599,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp1,199,000
+                  </p>
+                  <p
+                    class="card-text-disc col-4 float-start mobile-discon-text"
+                  >
+                    -51%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/a/l/al_attar_kura-kura_1_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  AL ATTAR HEALTH NECKLACE (KURA-K...
+                </h5>
+                <p class="card-text mobile-price-text">Rp999,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    class="card-text-disc col-4 float-start mobile-discon-text"
+                  >
+                    -52%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/a/l/al_attar_kura-kura_1_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  AL ATTAR HEALTH NECKLACE (KURA-K...
+                </h5>
+                <p class="card-text mobile-price-text">Rp999,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    class="card-text-disc col-4 float-start mobile-discon-text"
+                  >
+                    -52%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/a/l/al_attar_kura-kura_1_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title mobile-title-text">
+                  AL ATTAR HEALTH NECKLACE (KURA-K...
+                </h5>
+                <p class="card-text mobile-price-text">Rp999,000</p>
+                <div>
+                  <p
+                    class="card-text-promo text-decoration-line-through col-7 float-start mobile-discon-text"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    class="card-text-disc col-4 float-start mobile-discon-text"
+                  >
+                    -52%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="carousel-control-prev"
+      type="button"
+      data-bs-target="#carouselExampleControls100"
+      data-bs-slide="prev"
+    >
+      <span class="" aria-hidden="true">
+        <i class="fa-solid fa-angle-left fa-xl" style="color: black"></i>
+      </span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button
+      class="carousel-control-next"
+      type="button"
+      data-bs-target="#carouselExampleControls100"
       data-bs-slide="next"
     >
       <span class="" aria-hidden="true">

@@ -5,7 +5,7 @@
     <div class="striped-border"></div>
   </div>
   <Footer></Footer>
-  <div class="fixed-bottom px-3 py-3 d-sm-block d-lg-none">
+  <div class="bottom-navigation fixed-bottom px-3 py-3">
     <nav
       class="navbar navbar-expand shadow"
       style="border-radius: 27px; background-color: white"
@@ -75,5 +75,12 @@ export default {
 }
 .striped-border {
   border: 1px dashed #cccccc;
+}
+@media screen and (min-width: 576px) {
+  .bottom-navigation {
+    display: none;
+  }
+}
+@media screen and (min-width: 574px) and (max-width: 767px) {
 }
 </style>

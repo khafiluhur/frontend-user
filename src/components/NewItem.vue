@@ -1,7 +1,7 @@
 <template>
   <!-- Desktop View -->
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-sm-block"
+    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-md-none d-sm-block"
   >
     <div class="container-fluid">
       <a class="navbar-brand fw-bold" style="font-size: 36px" href="#">
@@ -428,7 +428,7 @@
   </div>
   <!-- Mobile View -->
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-social px-3 d-sm-block d-lg-none"
+    class="navbar navbar-expand-lg navbar-light bg-social px-3 d-sm-block d-md-none d-lg-none"
   >
     <div class="container-fluid">
       <a class="navbar-brand fw-bold" style="font-size: 20px" href="#">
@@ -841,6 +841,549 @@
       class="carousel-control-next"
       type="button"
       data-bs-target="#carouselExampleControls20"
+      data-bs-slide="next"
+    >
+      <span class="" aria-hidden="true">
+        <i class="fa-solid fa-angle-right fa-xl" style="color: black"></i>
+      </span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+  <!-- Tablet View -->
+  <nav
+    class="navbar navbar-expand-lg navbar-light bg-social px-4 d-none d-md-block d-lg-none"
+  >
+    <div class="container-fluid">
+      <a class="navbar-brand fw-bold" style="font-size: 20px" href="#">
+        Terbaru
+      </a>
+      <a
+        style="font-size: 14px; color: #f37727"
+        class="nav-link fw-bold"
+        aria-current="page"
+        href="#"
+        >Lihat Semua</a
+      >
+    </div>
+  </nav>
+  <div
+    id="carouselExampleControls200"
+    class="carousel slide px-4 d-none d-md-block d-lg-none"
+    style="margin-bottom: 26px"
+  >
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="row">
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.54.17_1_.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.56.52_1_.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.58.13.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2021-11-18_at_10.58.59_1_.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_1_3.png"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/i/m/img_2052_p2_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_bonus_7.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/r/g/rg-soypep_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_produk_bonus_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/w/h/whatsapp_image_2022-01-10_at_12.42.39.jpeg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/r/o/royal_polo_kansley_diana_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_6.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="row">
+          <div class="col">
+            <div class="card shadow">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/b/i/big_saver_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_bonus_12.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/b/i/big_saver_1.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="https://emshop.id/media/catalog/product/cache/a292f3fd713c149affb71b6d26900e9d/m/a/main_product_bonus_12.jpg"
+                alt="Card image cap"
+                width="240"
+              />
+              <div class="card-body">
+                <h5 class="card-title" style="font-size: 12px">
+                  Al Attar Health Necklace (Tasbih...
+                </h5>
+                <p class="card-text" style="font-size: 14px">Rp899.000</p>
+                <div>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-promo text-decoration-line-through col-7 float-start"
+                  >
+                    Rp2.079.000
+                  </p>
+                  <p
+                    style="font-size: 12px"
+                    class="card-text-disc col-3 float-start"
+                  >
+                    -78%
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="carousel-control-prev"
+      type="button"
+      data-bs-target="#carouselExampleControls200"
+      data-bs-slide="prev"
+    >
+      <span class="" aria-hidden="true">
+        <i class="fa-solid fa-angle-left fa-xl" style="color: black"></i>
+      </span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button
+      class="carousel-control-next"
+      type="button"
+      data-bs-target="#carouselExampleControls200"
       data-bs-slide="next"
     >
       <span class="" aria-hidden="true">
