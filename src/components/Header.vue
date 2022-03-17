@@ -70,7 +70,7 @@
           class="collapse navbar-collapse col px-5"
           id="navbarSupportedContent"
         >
-          <ul class="navbar-nav mb-2 mb-lg-0">
+          <ul class="navbar-nav mb-2 mb-lg-0 w-100">
             <li>
               <router-link class="navbar-brand mr-1 col" to="/">
                 <img
@@ -81,7 +81,7 @@
                 />
               </router-link>
             </li>
-            <li class="nav-item dropdown margin-catrgory">
+            <li class="nav-item dropdown margin-catrgory w-25">
               <a
                 class="nav-link text-category text-black"
                 href="#"
@@ -132,7 +132,7 @@
                 </li>
               </ul>
             </li>
-            <li class="nav-item">
+            <li class="nav-item w-100">
               <form class="d-flex">
                 <input
                   style="
@@ -483,7 +483,7 @@ export default {
   margin-right: 32px;
 }
 .search-product {
-  width: 589px;
+  width: 100%;
   border-bottom-right-radius: unset;
   border-top-right-radius: unset;
   color: #cccccc;
