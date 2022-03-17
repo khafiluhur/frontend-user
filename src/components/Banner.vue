@@ -215,12 +215,9 @@
 </template>
 
 <script>
-// import ItemBanner from "./ItemBanner.vue";
-
 export default {
-  name: "Banner",
-  components: {
-    // ItemBanner,
+  data() {
+    return {};
   },
 };
 </script>

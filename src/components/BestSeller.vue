@@ -1421,8 +1421,29 @@
 </template>
 
 <script>
+import axios from "axios";
+let config = {
+  headers: {
+    Authorization: "Bearer 6|mh44mmgwd4jtmyN6LbD6Saej1rmU2jeBb6hFoTYg",
+  },
+};
 export default {
-  setup() {},
+  data() {
+    return {
+      products: [],
+    };
+  },
+  methods: {
+    setProducts(data) {
+      this.products = data;
+    },
+  },
+  mounted() {
+    axios
+      .get("http://127.0.0.1:8000/api/product/exclusive/2", config)
+      .then((response) => console.log(response))
+      .catch((error) => console.log(error));
+  },
 };
 </script>
 

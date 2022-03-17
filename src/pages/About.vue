@@ -78,12 +78,13 @@
         >
           <div class="container-fluid ps-0">
             <a class="navbar-brand text-download fw-bold" href="#">
-              Order By:
+              Pesanan disini:
             </a>
             <div class="collapse navbar-collapse">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
                   <a
+                    target="_blank"
                     href="https://aladinmall.misteraladin.com/product/lock-n-lock-low-carbo-rice-cooker-v2-knife-set-160300"
                   >
                     <div
@@ -107,6 +108,7 @@
                 </li>
                 <li class="nav-item mx-3">
                   <a
+                    target="_blank"
                     href="https://www.tokopedia.com/mncshop/lock-n-lock-low-carbo-rice-cooker?txsc=google&gclid=CjwKCAiAgbiQBhAHEiwAuQ6BksJIBAHd1uPvKoPcH14b2B9xZeIYncpwNPFVfJ6vuJ6h0e0AHN4O1RoCxRQQAvD_BwE&gclsrc=aw.ds"
                   >
                     <div
@@ -129,6 +131,7 @@
                 </li>
                 <li class="nav-item5">
                   <a
+                    target="_blank"
                     href="https://shopee.co.id/LOCK-N-LOCK-LOW-CARBO-RICE-COOKER-V2-KNIFE-SET-i.185945702.9283223972?sp_atk=569c1fbd-d8aa-4c79-acaa-39af38cfa887"
                   >
                     <div
@@ -736,11 +739,12 @@
         style="font-size: 16px"
         href="#"
       >
-        Order By:
+        Pesanan disini:
       </p>
       <div class="row mb-4 px-2">
         <div class="col-2">
           <a
+            target="_blank"
             href="https://aladinmall.misteraladin.com/product/lock-n-lock-low-carbo-rice-cooker-v2-knife-set-160300"
           >
             <div
@@ -764,6 +768,7 @@
         </div>
         <div class="col-2">
           <a
+            target="_blank"
             href="https://www.tokopedia.com/mncshop/lock-n-lock-low-carbo-rice-cooker?txsc=google&gclid=CjwKCAiAgbiQBhAHEiwAuQ6BksJIBAHd1uPvKoPcH14b2B9xZeIYncpwNPFVfJ6vuJ6h0e0AHN4O1RoCxRQQAvD_BwE&gclsrc=aw.ds"
           >
             <div
@@ -786,6 +791,7 @@
         </div>
         <div class="col-2">
           <a
+            target="_blank"
             href="https://shopee.co.id/LOCK-N-LOCK-LOW-CARBO-RICE-COOKER-V2-KNIFE-SET-i.185945702.9283223972?sp_atk=569c1fbd-d8aa-4c79-acaa-39af38cfa887"
           >
             <div
@@ -1392,12 +1398,13 @@
         >
           <div class="container-fluid ps-0">
             <a class="navbar-brand text-download fw-bold" href="#">
-              Order By:
+              Pesanan disini:
             </a>
             <div class="collapse navbar-collapse">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
                   <a
+                    target="_blank"
                     href="https://aladinmall.misteraladin.com/product/lock-n-lock-low-carbo-rice-cooker-v2-knife-set-160300"
                   >
                     <div
@@ -1421,6 +1428,7 @@
                 </li>
                 <li class="nav-item mx-3">
                   <a
+                    target="_blank"
                     href="https://www.tokopedia.com/mncshop/lock-n-lock-low-carbo-rice-cooker?txsc=google&gclid=CjwKCAiAgbiQBhAHEiwAuQ6BksJIBAHd1uPvKoPcH14b2B9xZeIYncpwNPFVfJ6vuJ6h0e0AHN4O1RoCxRQQAvD_BwE&gclsrc=aw.ds"
                   >
                     <div
@@ -1443,6 +1451,7 @@
                 </li>
                 <li class="nav-item5">
                   <a
+                    target="_blank"
                     href="https://shopee.co.id/LOCK-N-LOCK-LOW-CARBO-RICE-COOKER-V2-KNIFE-SET-i.185945702.9283223972?sp_atk=569c1fbd-d8aa-4c79-acaa-39af38cfa887"
                   >
                     <div

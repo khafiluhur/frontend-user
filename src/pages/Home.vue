@@ -60,7 +60,7 @@ export default {
     RelatedItem,
     Description,
   },
-  setup() {},
+  data() {},
 };
 </script>
 
