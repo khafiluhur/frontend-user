@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-sm-none d-lg-block mt-4 mb-4"
+    class="navbar navbar-expand-lg navbar-light bg-social px-5 mt-4 mb-4 d-none d-sm-none d-md-none d-lg-block"
   >
     <div class="container-fluid">
       <div class="vl" style="margin-right: 16px"></div>
@@ -24,7 +24,7 @@
     </div>
   </nav>
   <!-- Desktop View -->
-  <div class="d-none d-md-none d-sm-block">
+  <div class="d-none d-none d-sm-none d-md-none d-lg-block">
     <div class="row mb-5 px-5">
       <div class="col-5">
         <img
@@ -217,7 +217,7 @@
     class="d-none d-md-none d-sm-block"
     style="height: 20px; background-color: #f6f6f6; margin-bottom: 40px"
   ></div>
-  <div class="px-5 d-none d-md-none d-sm-block">
+  <div class="px-5 d-none d-sm-none d-md-none d-lg-block">
     <h1 class="text-start fw-bold" style="font-size: 18px; marign-bottom: 16px">
       Deskripsi Produk
     </h1>
@@ -268,7 +268,7 @@
     "
   ></div>
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-md-none d-sm-block"
+    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-sm-none d-md-none d-lg-block"
   >
     <div class="container-fluid">
       <a class="navbar-brand fw-bold" style="font-size: 26px" href="#">
@@ -293,7 +293,7 @@
   </nav>
   <div
     id="carouselExampleControls2"
-    class="carousel slide px-5 d-none d-md-none d-sm-block"
+    class="carousel slide px-5 d-none d-sm-none d-md-none d-lg-block"
     style="margin-bottom: 56px"
   >
     <div class="carousel-inner">
@@ -1344,7 +1344,7 @@
     </button>
   </div>
   <!-- Tablet View -->
-  <div class="d-none d-sm-block">
+  <div class="d-none d-md-block d-lg-none">
     <div class="row mb-5 px-5">
       <div class="col-5">
         <img
@@ -1537,7 +1537,7 @@
     class="d-none d-sm-block"
     style="height: 20px; background-color: #f6f6f6; margin-bottom: 40px"
   ></div>
-  <div class="px-5 d-none d-sm-block">
+  <div class="px-5 d-none d-md-block d-lg-none">
     <h1 class="text-start fw-bold" style="font-size: 18px; marign-bottom: 16px">
       Deskripsi Produk
     </h1>
@@ -1579,7 +1579,7 @@
     </p>
   </div>
   <div
-    class="d-none d-sm-block"
+    class="d-none d-md-block d-lg-none"
     style="
       height: 20px;
       background-color: #f6f6f6;
@@ -1588,7 +1588,7 @@
     "
   ></div>
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-sm-block"
+    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-md-block d-lg-none"
   >
     <div class="container-fluid">
       <a class="navbar-brand fw-bold" style="font-size: 26px" href="#">
@@ -1613,7 +1613,7 @@
   </nav>
   <div
     id="carouselExampleControls203"
-    class="carousel slide px-5 d-none d-sm-block"
+    class="carousel slide px-5 d-none d-md-block d-lg-none"
     style="margin-bottom: 56px"
   >
     <div class="carousel-inner">

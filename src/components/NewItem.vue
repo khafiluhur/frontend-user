@@ -1,7 +1,7 @@
 <template>
   <!-- Desktop View -->
   <nav
-    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-md-none d-sm-block"
+    class="navbar navbar-expand-lg navbar-light bg-social px-5 d-none d-sm-none d-md-none d-lg-block"
   >
     <div class="container-fluid">
       <a class="navbar-brand fw-bold" style="font-size: 36px" href="#">

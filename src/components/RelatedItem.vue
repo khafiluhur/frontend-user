@@ -1,6 +1,9 @@
 <template>
   <!-- Desktop View -->
-  <div class="px-5 d-none d-md-none d-sm-block" style="margin-bottom: 40px">
+  <div
+    class="px-5 d-none d-sm-none d-md-none d-lg-block"
+    style="margin-bottom: 40px"
+  >
     <div class="row">
       <div class="col">
         <div class="card shadow-sm">
@@ -1363,7 +1366,7 @@
     </div>
   </div>
   <!-- Tablet View -->
-  <div class="px-4 d-none d-sm-block" style="margin-bottom: 40px">
+  <div class="px-4 d-none d-md-block d-lg-none" style="margin-bottom: 40px">
     <div class="row">
       <div class="col">
         <div class="card shadow-sm">
