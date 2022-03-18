@@ -216,9 +216,8 @@
 
 <script>
 export default {
-  data() {
-    return {};
-  },
+  name: "Banner",
+  setup() {},
 };
 </script>
 

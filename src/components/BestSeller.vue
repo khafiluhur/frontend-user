@@ -25,7 +25,7 @@
     </div>
   </nav>
   <div
-    id="carouselExampleControls1"
+    id="carouselExampleControls599"
     class="carousel slide px-5 d-none d-sm-none d-lg-block"
     style="margin-bottom: 56px"
   >
@@ -410,7 +410,8 @@
     <button
       class="carousel-control-prev btn-prev shadow"
       type="button"
-      data-bs-target="#carouselExampleControls1"
+      data-bs-target="#carouselExampleControls599"
+      data-bs-slide="prev"
     >
       <span class="" aria-hidden="true">
         <i class="fa-solid fa-angle-left fa-xl" style="color: black"></i>
@@ -420,7 +421,8 @@
     <button
       class="carousel-control-next btn-next shadow"
       type="button"
-      data-bs-target="#carouselExampleControls1"
+      data-bs-target="#carouselExampleControls599"
+      data-bs-slide="next"
     >
       <span class="" aria-hidden="true">
         <i class="fa-solid fa-angle-right fa-xl" style="color: black"></i>
@@ -1421,29 +1423,9 @@
 </template>
 
 <script>
-import axios from "axios";
-let config = {
-  headers: {
-    Authorization: "Bearer 6|mh44mmgwd4jtmyN6LbD6Saej1rmU2jeBb6hFoTYg",
-  },
-};
 export default {
-  data() {
-    return {
-      products: [],
-    };
-  },
-  methods: {
-    setProducts(data) {
-      this.products = data;
-    },
-  },
-  mounted() {
-    axios
-      .get("http://127.0.0.1:8000/api/product/exclusive/2", config)
-      .then((response) => console.log(response))
-      .catch((error) => console.log(error));
-  },
+  name: "BestSeller",
+  setup() {},
 };
 </script>
 
